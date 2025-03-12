@@ -7,5 +7,6 @@ public class dz_git {
         System.out.println("feature 2");
         System.out.println("feature 3");
         System.out.println("feature 4");
+        System.out.println("feature 5");
     }
 }
